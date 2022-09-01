@@ -1,1 +1,5 @@
-
+.main{
+    background: url('./components/navbar/movie-background.jpg') no-repeat center center/cover;
+    height: 100vh;
+    object-fit: contain;
+ }
